@@ -1,0 +1,8 @@
+.cache/
+.idea/
+result_log.txt
+venv
+*.testlog
+*.pyc
+__pycache__
+gt

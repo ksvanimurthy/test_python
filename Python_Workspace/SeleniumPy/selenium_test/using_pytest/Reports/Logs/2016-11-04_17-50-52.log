@@ -1,0 +1,20 @@
+INFO:root:************************************** Execution Starts ************************************************************
+INFO:root:Chrome browser launched.
+INFO:root:Jabong Application Launched.
+INFO:root:windows maximized
+INFO:root:Inside test_buy_blazers
+INFO:root:Men section opened in new Tab
+INFO:root:Clicked on Men section
+INFO:root:Driver quited
+INFO:root:************************************** Execution Starts ************************************************************
+INFO:root:Chrome browser launched.
+INFO:root:Jabong Application Launched.
+INFO:root:windows maximized
+INFO:root:Inside test_sign_in
+INFO:root:Clicked on Signin link
+INFO:root:Login Email Id entered.
+INFO:root:Login Password entered.
+INFO:root:Clicked on Signin button for login Jabong.
+ERROR:root:Exception raised in method - test_sign_in
+INFO:root:test_sign_in =Fail
+INFO:root:Driver quited

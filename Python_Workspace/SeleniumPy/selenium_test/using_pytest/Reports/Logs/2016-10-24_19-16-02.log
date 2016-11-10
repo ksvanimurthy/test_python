@@ -1,0 +1,8 @@
+INFO:root:************************************** Execution Starts ************************************************************
+INFO:root:Chrome browser launched.
+INFO:root:Jabong Application Launched.
+INFO:root:windows maximized
+INFO:root:Inside test_buy_blazers
+ERROR:root:Exception raised in method - test_buy_blazers
+INFO:root:Driver quited
+INFO:root:************************************** Execution Starts ************************************************************

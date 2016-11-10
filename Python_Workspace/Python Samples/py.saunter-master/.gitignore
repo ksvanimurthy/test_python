@@ -1,0 +1,12 @@
+conf/*.ini
+*.pyc
+logs/*.xml
+logs/*.vlc
+logs/*.flv
+logs/*.log
+build/*
+dist/*
+saunter.egg-info/*
+examples/**/logs/*.xml
+examples/**/logs/*.log
+examples/**/logs/*.flv
